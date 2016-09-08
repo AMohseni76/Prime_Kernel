@@ -1,4 +1,4 @@
-# AMohseni76_priem_lt033g
+# AMohseni76_prime_lt033g
 Dear all this is the source to my Prime Kernel Which is for Galaxy NOte 10.1 2014 3G ( lt033g ) which is released at the XDA-Developers
 forum with the following address :
 http://forum.xda-developers.com/galaxy-note-10-2014/development/kernel-prime-kernel-p601-tw-lollipop-t3456312
